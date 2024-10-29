@@ -12,7 +12,7 @@ Arbetsuppgifter för förbundets kansli delas in i 3 huvudkategorier:
 * _Medlemsvärvning_
 
 Dessa ansvarsområden kan vara strikt uppdelade mellan olika anställda eller i olika omfattning delas mellan anställda och/eller förtroendevalda samt volontärer
-# Administrationsområdet innebär
+## Administrationsområdet innebär
 
 * Ansvar för att säkerställa att ansökningar till bidragsgivande myndigheter såsom MUCF inkommer i rätt tid med rätt underlag.
 * Tillse att bokföring är i god ordning och i linje med lagar och förordningar.
@@ -21,18 +21,18 @@ Dessa ansvarsområden kan vara strikt uppdelade mellan olika anställda eller i 
 * Övervaka att förbundsanslutna lokalföreningar inkommer med protokoll och annan dokumentation som är nödvändig för förbundets verksamhet.
 * Tillse så att nödvändig dokumentation om förbundets verksamhet löpande arkiveras på ett enhetligt och beständigt sätt
 
-# Verksamhetsutveckling innebär:
+## Verksamhetsutveckling innebär:
 Hålla regelbunden kontakt med anslutna föreningar och kommunicera med dess medlemmar. I detta ingår coachning av föreningarnas styrelser och vid behov hjälpa dessa med frågor relaterade till verksamhet och årsmöten.
 
 Verksamhetsutveckling innebär även att stödja arbetet med att förverkliga förbundets verksamhetsplan samt att vara ett bollplank för presidiet och resten av förbundsstyrelsen.
 
-# Medlemsvärvning innebär
+## Medlemsvärvning innebär
 Kontakta nyblivna medlemmar och erbjuda dessa hjälp att engagera sig i förbundet, samt att vid lämpliga tillfällen kontakta urval av befintliga medlemmar för att erbjuda dessa möjligheter att engagera sig ytterligare i verksamheten.
 
 Medlemsvärvning innefattar också att kontakta medlemmar vars medlemskap har gått ut och
 hjälpa till med förnyelse av medlemskap om dessa så önskar.
 
-# Allmänt om anställning i förbundet
+## Allmänt om anställning i förbundet
 
 Anställda behöver inte fullt ut dela, men måste respektera; förbundets ståndpunkter, ideologiska grund samt ställningstaganden. Förbundet skall i egenskap av arbetsgivare visa stor acceptans för en bredd av åsikter och perspektiv. Handlingar och ståndpunkter som är uppenbart oförenliga med förbundets grundsyn är däremot också oförenligt med anställning i förbundet.
 

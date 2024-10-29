@@ -1,10 +1,10 @@
 ---
 title: Bidragssystem för föreningar inom förbundet Ung Pirat
-type: Policy
+type: Övergripande styrdokument
 ---
 _antaget vid UPK 2017, reviderat vid UPK 2020_
 
-# Förbundets utformning
+## Förbundets utformning
 Ung Pirat är ett förbund bestående av tre olika sorters organisationsformer. Förbundet som sådant är navet för Ung Pirats verksamhet. Förbundet arrangerar kongressen, planerar kampanjer, driver politik utåt och representerar hela Ung Pirat.
 
 Hubbarna är de geografiskt betingade föreningar där de flesta av förbundets medlemmar finns. I minst fem hubbar jämnt fördelade över landet finner medlemmarna den närmaste aktiviteten och medlen för att engagera sig i densamma.
@@ -15,12 +15,12 @@ Förbundet finansierar verksamhet i hubbar och nätverk genom att betala ut verk
 
 Detta dokument beskriver de bestämmelser som finns för bidragsutbetalningar från förbundet till hubbar och nätverk
 
-# Allmänt om bidrag och utbetalning
+## Allmänt om bidrag och utbetalning
 Bidrag utbetalas endast till bankkonto eller likvärdigt tecknat i hubbens/nätverkets namn.
 
 Förbundet har rätt att kräva återbetalning av hela eller delar av bidraget om hubben/nätverket blir avstängd i enlighet med förbundets stadga.
 
-# Verksamhetsbidrag till hubbar
+## Verksamhetsbidrag till hubbar
 Berättigad till verksamhetsbidrag är hubbar som
 * funnits sedan föregående kalenderår,
 * skickat in justerat årsmötesprotokoll för föregående verksamhetsår,
@@ -36,7 +36,7 @@ Hubbstödet utgörs av ett grundstöd på 10 000 kr ett stöd om 1000 kr per lan
 
 En hubb som söker verksamhetsbidrag för fler än 1000 medlemmar måste kunna visa att hubben uppfyller höga krav på demokratisk mognad. Årsmötet i hubben ska vara tillgängligt och anpassat till medlemsbasen. Styrelsens förvaltning av hubben ska ge medlemmarna insyn och medinflytande i föreningen. Detta gäller endast för utbetalning av den del av medlemsstöred som överstiger 1000 medlemmar. Om ett extra årsmöte hålls måste protokollet snarast skickas in till förbundet. Sista ansökningsdag för verksamhetsbidraget är 30:e juni året efter underlagsåret
 
-# Verksamhetsbidrag till nätverk
+## Verksamhetsbidrag till nätverk
 Berättigad till verksamhetsbidrag är nätverk som
 * funnits sedan föregående kalenderår,
 * skickat in justerat årsmötesprotokoll för innevarande verksamhetsår,
@@ -50,5 +50,5 @@ Verksamhetsbidraget utgörs av ett grundstöd på 1400 kr samt ett medlemsstöd 
 
 Ett nätverk som söker verksamhetsbidrag för fler än 1000 medlemmar måste kunna visa att nätverket uppfyller höga krav på demokratisk mognad. Årsmötet i nätverket ska vara tillgängligt och anpassat till medlemsbasen. Styrelsens förvaltning av nätverket ska ge medlemmarna insyn och medinflytande i föreningen. Detta gäller endast för utbetalning av den del av medlemsstödet som överstiger 1000 medlemmar. Om ett extra årsmöte hålls måste protokollet snarast skickas in till förbundet. Sista ansökningsdag för verksamhetsbidraget är 30:e juni året efter underlagsåret.
 
-# Uppstartsbidrag till nätverk
+## Uppstartsbidrag till nätverk
 Uppstartsbidrag ges till nätverk som hållit uppstartsmöte under det aktuella kalenderåret. Uppstartsbidraget består av ett uppstartsstöd på 3 000 kr. Nätverket måste vid ansökningstillfället godkännas av förbundet för att vara berättigat till uppstartsbidrag. Uppstartsstödet utbetalas efter att justerat protokoll från uppstartsmötet skickats in. Nätverket måste ha minst fem medlemmar i åldern 6–25 år för att bidraget ska betalas ut.

@@ -1,6 +1,6 @@
 ---
 title: Ung Pirats policy kring rusmedel
-type: Policy
+type: Övergripande styrdokument
 ---
 (Antagen av kongressen 2020)
 

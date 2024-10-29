@@ -1,19 +1,19 @@
 ---
 title: Ersättningspolicy
-type: policy
+type: Policy
 ---
-# Syfte
+## Syfte
 Ung Pirat strävar efter en trevlig och välmående miljö under arrangemang som förbundet anordnar. Denna policy har därför som syfte att tydligt visa vilka villkor som gäller, både för deltagare och arrangörer. Exempelvis kring ekonomisk ersättning samt vad som är önskvärt både i miljö, bekvämliga och ekonomiska aspekter.
 
 Texter i dokumentet som är kursivstil är fastställd av ett kongressbeslut och kan därför inte ändras eller tas bort av förbundsstyrelsen.
 
-# Tillämpningsområde
+## Tillämpningsområde
 Policyn gäller för såväl anställda och arvoderade inom förbundet, för funktionärer på arrangemang som förbundet anordnar samt deltagare på sådana arrangemang till och med det år personen fyller 30 år. Ytterligare villkor kan gälla för arvoderade samt på digitala aktiviteter.
 
-# Bestämmelser
+## Bestämmelser
 För att få ersättning från Ung Pirat behöver någon med befogenhet godkänna utlägget. För att få ersättning ska utlägget styrkas med kvitto eller motsvarande.
 
-## Logi
+### Logi
 Vid längre arrangemang ordnade av Ung Pirat (såsom läger, kongresser eller dylikt) ska förbundet erbjuda eller ersätta ekonomiskt för sovplatser som är av vandrarhemsstandard eller annat som är motiverat av praktiska skäl. Dessa bör i möjligaste mån vara i nära anslutning till evenemanget.
 
 Vid närvaro och representation på externa event får enklare övernattning (exempelvis golvlogi i sovsal) förekomma om det är motiverat av praktiska eller kostnadsskäl. Detta skall tydligt
@@ -21,7 +21,7 @@ kommuniceras i förväg till deltagarna.
 
 Ung Pirat skall alltid sträva efter att ge deltagare möjlighet till en god natts sömn.
 
-## Mat
+### Mat
 Alla som har fått godkänt för en tjänsteresa eller en resa på uppdrag av förbundet har rätt till ersättning för mat och måltidsdryck under resan gång, under vistelsen på resmålet, samt under hemresan.
 
 Vid tjänstgöring eller deltagande på plats utan resa har den anställde eller uppdragstagaren rätt till ersättning för mat och måltidsdryck under hela tjänstgörings- eller uppdragstiden
@@ -32,7 +32,7 @@ _Ung Pirat respekterar varje individs kostval och eventuella matallergier. Som s
 
 _Under förbundets arrangemang ska man må bra och inte behöva vara hungrig_
 
-## Resor
+### Resor
 Förbundet ska stå för kostnader av resa som måste göras i tjänst eller på uppdrag av förbundet.
 
 För att få resor betalda skall:
@@ -44,14 +44,14 @@ Vid resa från utomlands ersätter förbundet resan med upp till 1500 kr per enk
 
 Som hemort definieras där personen i fråga är folkbokförd.
 
-### Färdsätt
+#### Färdsätt
 Vid resebokning ska främst miljövänlighet prioriteras, därefter restid och kostnad. Detta kan avvikas från av praktiska skäl.
 
 Vid bokning av resa ska det billigaste alternativet för resan väljas om det är möjligt. Liggvagn eller sovvagn är acceptabelt vid längre tågresor
 
 Om resor går att boka ombokningsbara eller återbetalningsbara bör detta väljas om resan bokas mer än två månader i förväg.
 
-## Återbetalningsskyldighet
+### Återbetalningsskyldighet
 Om förbundet betalar en ersättningsberättigad aktivitet eller resa och den inte utnyttjas på grund av omständigheter som ligger inom den enskilde personens kontroll kan denne bli återbetalningsskyldig. Omständigheter inom personens kontroll innebär exempelvis
 * Missad aktivitet på grund av egen försummelse eller glömska.
 * Felaktig planering eller resebokning som leder till att personen inte kan delta.
