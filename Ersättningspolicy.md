@@ -8,7 +8,7 @@ Ung Pirat strävar efter en trevlig och välmående miljö under arrangemang som
 Texter i dokumentet som är kursivstil är fastställd av ett kongressbeslut och kan därför inte ändras eller tas bort av förbundsstyrelsen.
 
 # Tillämpningsområde
-Policyn gäller för såväl anställda och arvoderade inom förbundet, för funktionärer på arrangemang som förbundet anordnar samt deltagare på sådana arrangemang till och med det år personen fyller 30 år. Ytterligare villkor kan gälla för arvoderade samt på digitala aktiviteter
+Policyn gäller för såväl anställda och arvoderade inom förbundet, för funktionärer på arrangemang som förbundet anordnar samt deltagare på sådana arrangemang till och med det år personen fyller 30 år. Ytterligare villkor kan gälla för arvoderade samt på digitala aktiviteter.
 
 # Bestämmelser
 För att få ersättning från Ung Pirat behöver någon med befogenhet godkänna utlägget. För att få ersättning ska utlägget styrkas med kvitto eller motsvarande.
