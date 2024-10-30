@@ -1,6 +1,6 @@
 ---
 title: Bidragssystem för föreningar inom förbundet Ung Pirat
-type: Övergripande styrdokument
+type: Övergripande Styrdokument
 ---
 _antaget vid UPK 2017, reviderat vid UPK 2020_
 
