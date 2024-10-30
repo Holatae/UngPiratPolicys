@@ -1,6 +1,6 @@
 ---
 title: Stående regler för ekonomihantering
-type: Policy
+type: Rutiner
 ---
 # 1. Budgetägande, attest, utbetalningar
 Ingen betalning från vare sig kort, bank eller handkassa får göras utan att:
